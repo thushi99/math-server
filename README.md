@@ -5,4 +5,8 @@
     telnet localhost 8877
 
 ## Try Math expressions
-    
+    Example:
+        1+2
+        a=2
+        b=5
+        a+b
